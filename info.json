@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "935ed21439230228f07f26161a507812d0fc76c3",
+    "author": "Zhian N. Kamvar <zkamvar@gmail.com>",
+    "time": "2021-05-27 14:06:11",
+    "files": 3,
+    "merge": true,
+    "message": "Merge pull request #51 from ropensci/escape-ampersand\n\nClean newly created anchor links"
+  },
+  "remote": "https://github.com/ropensci/tinkr",
+  "pkg": "tinkr"
+}
