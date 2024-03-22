@@ -1,0 +1,10 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  tinkr: tinkr.html
+last_built: 2024-03-22T05:54Z
+urls:
+  reference: https://docs.ropensci.org/tinkr/reference
+  article: https://docs.ropensci.org/tinkr/articles
+

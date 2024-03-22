@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a5dd3ddfa235d4a3eb6df78c885d68410ba161c8",
+    "author": "Zhian N. Kamvar <zkamvar@gmail.com>",
+    "time": "2023-03-28 15:48:33",
+    "files": 9,
+    "merge": true,
+    "message": "Merge pull request #94 from ropensci/release-cran-2023-03\n\nRelease to CRAN"
+  },
+  "repo": "https://github.com/ropensci/tinkr",
+  "pkg": "tinkr"
+}
