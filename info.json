@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "5da21423bdac92d90d86198e987350222dafc9f9",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-06-01T13:30:08Z",
+    "files": 8,
+    "merge": false,
+    "message": "docs: add roxygen2 tag for note about the yarn class (#154)\n\n* docs: add roxygen2 tag for note about the yarn class\n\n* Delete PLAN.md"
+  },
+  "repo": "https://github.com/ropensci/tinkr",
+  "pkg": "tinkr",
+  "time": "2026-08-30T07:50:42Z"
+}
